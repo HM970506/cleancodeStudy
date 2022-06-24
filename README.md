@@ -1,6 +1,6 @@
-cleancodeStudy
+CleanCodeStudy
 ======
-<b><h2>KakaoCloudSchool</h2>👩‍💻에서의 발자취 🐾  
+<b>KakaoCloudSchool👩‍💻에서의 발자취 🐾  
 방과후 진행하는 클린코드 스터디📚</b> 
 </br></br>
 

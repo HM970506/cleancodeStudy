@@ -20,9 +20,16 @@ CleanCodeStudy
 </br></br>
 
 ### 🐾 TIMETABLE
-<b>매주 월요일 & 목요일</b> 스터디 진행  
+<b>매주 목요일</b> 스터디 진행  
 </br></br>
 
+### 🐾 STUDY REPORT
+| 챕터 |  일자   | 발표자 |                                                                Best Reader                                                                |
+|:---:|:-----:|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+| 1 | 06/30 | - |       [예지](https://github.com/HM970506/cleancodeStudy/blob/main/1%EC%9E%A5_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C/KYJ.md)       |
+| 2 | 06/30 | 소연 & 재원 | [소연](https://github.com/HM970506/cleancodeStudy/blob/main/2%EC%9E%A5_%EC%9D%98%EB%AF%B8%20%EC%9E%88%EB%8A%94%20%EC%9D%B4%EB%A6%84/HSY.md) |
+
+</br></br>
 
 ### 🐾 MEMBER  
 | <img src="https://user-images.githubusercontent.com/54930365/175466144-72c1cae6-269b-4a7f-8295-7c4a27f6f291.jpeg" width="130" height="130"> | <img src="https://user-images.githubusercontent.com/54930365/175467364-d5849912-10f8-4ad4-ade2-b6f553c685ff.jpeg" width="130" height="130"> |  <img src="https://user-images.githubusercontent.com/54930365/175470512-452453d8-8916-4830-b15f-117d11812ebd.png" width="130" height="130">   | <img src="https://user-images.githubusercontent.com/54930365/175469849-d8fb06ae-7ba5-4775-a17e-3b1b1f02d6f2.jpeg" width="130" height="130"> | <img src="https://user-images.githubusercontent.com/54930365/175469606-f2805692-eeee-4212-a6d4-c599085be9b0.jpeg" width="130" height="130"> |  

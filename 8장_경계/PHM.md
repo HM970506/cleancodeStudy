@@ -50,6 +50,8 @@ public class myClass{
 ### 어댑터 패턴
 클래스의 인터페이스를 사용자가 기대하는 다른 인터페이스로 변환하는 패턴. <br/>
 인터페이스와 클래스 사이 호환성을 담당한다.
+![image](https://user-images.githubusercontent.com/62527898/179740542-cba2f88a-dca4-4a51-b2ad-a12c72182436.png)
+
 
 <br/>
 

@@ -1,8 +1,9 @@
 16장 SerialDate 리팩터링
 =================
-JCommon 라이브러리를 뒤져보면 org.ifree.date라는 패키지가 있으며,
-여기에 serialDate라는 클래스가 있다.
-이 장에서는 바로 이 SerialDate라는 클래스를 탐험한다.
+_JCommon 라이브러리를 뒤져보면 org.ifree.date라는 패키지가 있으며,
+여기에 serialDate라는 클래스가 있다.  
+이 장에서는 바로 이 SerialDate라는 클래스를 탐험한다._  
+<br>
 
 __SerialDate는 날짜를 표현하는 자바 클래스다.__
 자바는 이미 java.util.Date, java.util.Calendar 등과 같은 클래스를 제공하지만
